@@ -23,7 +23,7 @@ a {
     align-items: center;
     background: #111;
     padding: 1rem 2rem;
-    position: sticky;
+    position: absulate;
     top: 0;
     z-index: 1000;
 }
